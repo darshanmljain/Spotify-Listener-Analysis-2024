@@ -38,9 +38,6 @@ spotify-listener-analysis-2024/
 │
 ├── Spotify_Listeners_Analysis.ipynb
 ├── Spotify_2024_Cleaned.csv
-├── charts/
-│   ├── chart_1_top10_artists_streams.png
-│   ├── chart_6_genre_skip_rate_comparison.png
-│   └── (12 exported charts)
+├── charts
 └── README.md
 </pre>
