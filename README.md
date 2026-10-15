@@ -32,12 +32,24 @@ An end-to-end data analytics project exploring **1.29 Trillion music streams** a
 ---
 
 ## 📁 Repository Structure
-
 <pre>
 spotify-listener-analysis-2024/
 │
 ├── Spotify_Listeners_Analysis.ipynb
 ├── Spotify_2024_Cleaned.csv
-├── charts/
-└── README.md
+├── spotify-analysis.html
+├── README.md
+└── charts/
+    ├── chart_1_top10_artists_streams.png
+    ├── chart_2_top10_artists_listeners.png
+    ├── chart_3_top10_countries_streams.png
+    ├── chart_4_top10_countries_listeners.png
+    ├── chart_5_genre_streams_distribution.png
+    ├── chart_6_genre_skip_rate_comparison.png
+    ├── chart_7_free_vs_premium_streams.png
+    ├── chart_8_skip_rate_vs_duration_scatter.png
+    ├── chart_9_streams_30days_vs_total.png
+    ├── chart_10_release_year_trends.png
+    ├── chart_11_avg_duration_by_genre.png
+    └── chart_12_correlation_heatmap.png
 </pre>
