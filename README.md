@@ -38,6 +38,6 @@ spotify-listener-analysis-2024/
 │
 ├── Spotify_Listeners_Analysis.ipynb
 ├── Spotify_2024_Cleaned.csv
-├── charts
+├── charts/
 └── README.md
 </pre>
