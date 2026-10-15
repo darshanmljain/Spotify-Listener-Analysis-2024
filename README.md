@@ -33,7 +33,14 @@ An end-to-end data analytics project exploring **1.29 Trillion music streams** a
 
 ## 📁 Repository Structure
 
-├── Spotify_Listeners_Analysis.ipynb   # Google Colab analytics notebook
-├── Spotify_2024_Cleaned.csv           # Standardized dataset
-├── charts/                            # Exported visualization plots
-└── README.md                          # Project documentation
+<pre>
+spotify-listener-analysis-2024/
+│
+├── Spotify_Listeners_Analysis.ipynb
+├── Spotify_2024_Cleaned.csv
+├── charts/
+│   ├── chart_1_top10_artists_streams.png
+│   ├── chart_6_genre_skip_rate_comparison.png
+│   └── (12 exported charts)
+└── README.md
+</pre>
